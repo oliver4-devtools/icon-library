@@ -1,0 +1,21 @@
+{
+  "name": "Video",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent general video content scenarios.",
+  "metaphor": [
+    "video",
+    "film",
+    "clip",
+    "media",
+    "content",
+    "camera",
+    "recording",
+    "capture"
+  ]
+}

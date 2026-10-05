@@ -1,0 +1,22 @@
+{
+  "name": "Arrow Download Off",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used when download content is not allowed.",
+  "metaphor": [
+    "point",
+    "direction",
+    "down",
+    "vertical",
+    "download",
+    "off",
+    "disabled",
+    "prohibited",
+    "permission"
+  ]
+}

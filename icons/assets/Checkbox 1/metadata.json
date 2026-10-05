@@ -1,0 +1,16 @@
+{
+  "name": "Checkbox 1",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for toggle selection states.",
+  "metaphor": [
+    "selection",
+    "check",
+    "checkmark"
+  ]
+}

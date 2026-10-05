@@ -1,0 +1,16 @@
+{
+  "name": "Arrow Between Up",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "",
+  "metaphor": [
+    "transfer",
+    "margins",
+    "padding"
+  ]
+}

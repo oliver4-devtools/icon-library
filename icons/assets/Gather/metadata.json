@@ -1,0 +1,20 @@
+{
+  "name": "Gather",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, visual studio",
+  "description": "Used in scenarios of gathering data & other content.",
+  "metaphor": [
+    "table",
+    "cell",
+    "arrow",
+    "merge",
+    "extract",
+    "smart select",
+    "data"
+  ]
+}

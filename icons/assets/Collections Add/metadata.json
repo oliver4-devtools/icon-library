@@ -1,0 +1,17 @@
+{
+  "name": "Collections Add",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, edge",
+  "description": "Used in scenarios specifically to add to a collection.",
+  "metaphor": [
+    "browser",
+    "store",
+    "selection",
+    "plus"
+  ]
+}

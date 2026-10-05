@@ -1,0 +1,22 @@
+{
+  "name": "Align Straighten",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to straighten or rotate content.",
+  "metaphor": [
+    "align",
+    "alignment",
+    "edit",
+    "design",
+    "straighten",
+    "rotate",
+    "rotation",
+    "image",
+    "crop"
+  ]
+}

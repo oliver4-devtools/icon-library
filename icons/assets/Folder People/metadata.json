@@ -1,0 +1,18 @@
+{
+  "name": "Folder People",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a shared collection of files.",
+  "metaphor": [
+    "analog",
+    "collection",
+    "people",
+    "file",
+    "storage"
+  ]
+}

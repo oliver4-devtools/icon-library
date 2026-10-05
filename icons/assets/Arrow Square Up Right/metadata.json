@@ -1,0 +1,18 @@
+{
+  "name": "Arrow Square Up Right",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to indicate a location short cut.",
+  "metaphor": [
+    "point",
+    "direction",
+    "diagonal",
+    "circle",
+    "short cut"
+  ]
+}

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Oliver4.IconLibrary</id>
+    <version>1.2.3</version>
+    <title>Oliver4 Icon Library</title>
+    <authors>Oliver4</authors>
+    <owners>Oliver4</owners>
+    <license type="expression">MIT</license>
+    <projectUrl>https://www.oliver4-devtools.com</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/oliver4-devtools/icon-library/main/docs/icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>XrmToolBox tool that applies a Fluent UI icon to a Dataverse table in a few clicks: choose a solution, a table and an icon, then create or update the SVG web resource, point the table at it and publish. Bundles 2,500+ Fluent UI System Icons (Regular, 16 px) under the MIT licence. Requires the Microsoft Edge WebView2 Runtime.</description>
+    <releaseNotes>1.2.3 - Screens reorganised into white panels on a grey background, matching the other Oliver4 tools. 1.2.2 - Tool-list icon and tile colours now match the other Oliver4 XrmToolBox tools. 1.2.1 - Review and apply opens faster: existing web resources are read in the background after the table list loads. Logical Name and Display Name are both required and clearer; the default display name is the icon name. Choosing an existing web resource to reuse is now its own step. 1.2.0 - Renamed to Oliver4 Icon Library. Smaller download with fewer third-party components. 1.1.2 - Fixes: existing web resources saved with an XML declaration or byte order mark are now recognised for reuse; publisher list refreshes after changing environment; table list no longer sticks on loading after changing solution mid-load; SVG icons read from the environment are sanitised and a Content-Security-Policy blocks script in the UI. 1.1.0 - Apply Icon defaults to updating a table's existing custom icon; About screen reworked with an independent-tool statement and a link to oliver4-devtools.com.</releaseNotes>
+    <copyright>Copyright (c) 2026 Oliver4 Icon Library</copyright>
+    <tags>XrmToolBox Plugins Dataverse Dynamics365 PowerPlatform Icons FluentUI SVG</tags>
+    <dependencies>
+      <!-- Set to the XrmToolBox version the tool was built and tested against. -->
+      <dependency id="XrmToolBox" version="1.2025.10.74" />
+    </dependencies>
+  </metadata>
+  <files>
+    <!-- The tool is a single assembly. -->
+    <file src="..\src\Oliver4.IconLibrary\bin\Release\net48\Oliver4.IconLibrary.dll" target="lib\net48\Plugins" />
+    <file src="..\THIRD-PARTY-NOTICES.txt" target="lib\net48\Plugins\Oliver4.IconLibrary" />
+    <file src="..\LICENSE" target="lib\net48\Plugins\Oliver4.IconLibrary\LICENSE.txt" />
+  </files>
+</package>

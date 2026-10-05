@@ -1,0 +1,19 @@
+{
+  "name": "Navigation Location Target",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent general bullet list UI.",
+  "metaphor": [
+    "text",
+    "list",
+    "to do",
+    "checklist",
+    "type",
+    "information"
+  ]
+}

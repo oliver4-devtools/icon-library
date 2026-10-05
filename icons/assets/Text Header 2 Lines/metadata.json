@@ -1,0 +1,20 @@
+{
+  "name": "Text Header 2 Lines",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, loop",
+  "description": "Used to represent blocks of text witha section header.",
+  "metaphor": [
+    "text",
+    "header",
+    "h1",
+    "h2",
+    "h3",
+    "collapse",
+    "expand"
+  ]
+}

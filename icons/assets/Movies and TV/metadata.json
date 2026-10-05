@@ -1,0 +1,19 @@
+{
+  "name": "Movies and TV",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent media in Ui and around events.",
+  "metaphor": [
+    "movie",
+    "tv",
+    "clapboard",
+    "film",
+    "entertainment",
+    "media"
+  ]
+}

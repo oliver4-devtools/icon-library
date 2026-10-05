@@ -1,0 +1,19 @@
+{
+  "name": "Production",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent general production lines.",
+  "metaphor": [
+    "business",
+    "manufacture",
+    "factory",
+    "construction",
+    "product",
+    "shipping"
+  ]
+}

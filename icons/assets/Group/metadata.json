@@ -1,0 +1,17 @@
+{
+  "name": "Group",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent grouping content.",
+  "metaphor": [
+    "edit",
+    "create",
+    "ungroup",
+    "together"
+  ]
+}

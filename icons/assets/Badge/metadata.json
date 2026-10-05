@@ -1,0 +1,16 @@
+{
+  "name": "Badge",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used as a generic badge indicator.",
+  "metaphor": [
+    "app",
+    "square",
+    "notification"
+  ]
+}

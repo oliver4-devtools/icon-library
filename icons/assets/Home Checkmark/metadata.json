@@ -1,0 +1,18 @@
+{
+  "name": "Home Checkmark",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent home in UI or physical home space in travel scenarios.",
+  "metaphor": [
+    "house",
+    "safety",
+    "location",
+    "space",
+    "wfh"
+  ]
+}

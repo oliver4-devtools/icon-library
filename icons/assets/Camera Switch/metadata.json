@@ -1,0 +1,16 @@
+{
+  "name": "Camera Switch",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used in devices for switching from front to back camera.",
+  "metaphor": [
+    "image",
+    "photography",
+    "picture"
+  ]
+}

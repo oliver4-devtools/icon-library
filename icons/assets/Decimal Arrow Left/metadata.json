@@ -1,0 +1,16 @@
+{
+  "name": "Decimal Arrow Left",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, word, excel, powerpoint",
+  "description": null,
+  "metaphor": [
+    "currency",
+    "number",
+    "math.\n\n\nUsed to change decimal placement."
+  ]
+}

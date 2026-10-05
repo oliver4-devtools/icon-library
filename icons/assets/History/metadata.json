@@ -1,0 +1,17 @@
+{
+  "name": "History",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in scenarios needing to see history of changes.",
+  "metaphor": [
+    "back",
+    "undo",
+    "time",
+    "clock"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Flow",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent automated scenarios.",
+  "metaphor": [
+    "process",
+    "automation"
+  ]
+}

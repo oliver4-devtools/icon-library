@@ -1,0 +1,16 @@
+{
+  "name": "Sub Grid",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, edge",
+  "description": "",
+  "metaphor": [
+    "pixel",
+    "square",
+    "target"
+  ]
+}

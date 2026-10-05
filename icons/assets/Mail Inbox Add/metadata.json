@@ -1,0 +1,19 @@
+{
+  "name": "Mail Inbox Add",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used to represent mail inbox.",
+  "metaphor": [
+    "envelope",
+    "email",
+    "delivery",
+    "message",
+    "plus",
+    "new"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Backpack",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook, teams",
+  "description": "Used to represent general school or education scenarios.",
+  "metaphor": [
+    "school",
+    "travel",
+    "education"
+  ]
+}

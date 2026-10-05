@@ -1,0 +1,15 @@
+{
+  "name": "Animal Dog",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for content about pets.",
+  "metaphor": [
+    "pet",
+    "creature"
+  ]
+}

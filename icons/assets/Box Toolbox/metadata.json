@@ -1,0 +1,17 @@
+{
+  "name": "Box Toolbox",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for shipping, production scenarios.",
+  "metaphor": [
+    "package",
+    "shipping",
+    "cargo",
+    "production"
+  ]
+}

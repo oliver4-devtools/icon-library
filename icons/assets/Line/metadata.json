@@ -1,0 +1,16 @@
+{
+  "name": "Line",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, whiteboard",
+  "description": "Used in drawing line scenarios.",
+  "metaphor": [
+    "draw",
+    "create",
+    "edit"
+  ]
+}

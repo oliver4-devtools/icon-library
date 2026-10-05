@@ -1,0 +1,21 @@
+{
+  "name": "Rename",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in general renaming and editing content in input fields.",
+  "metaphor": [
+    "input",
+    "rename",
+    "text",
+    "type",
+    "info",
+    "ui",
+    "box",
+    "form"
+  ]
+}

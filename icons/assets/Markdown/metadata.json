@@ -1,0 +1,20 @@
+{
+  "name": "Markdown",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, visual studio",
+  "description": "Used to represent converting to Markdown text. Markdown is a lightweight markup language for creating formatted text.",
+  "metaphor": [
+    "format",
+    "convert",
+    "markup",
+    "language",
+    "text",
+    "code",
+    "arrow"
+  ]
+}

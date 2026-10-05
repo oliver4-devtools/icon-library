@@ -1,0 +1,18 @@
+{
+  "name": "Card UI",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent any card or modal UI.",
+  "metaphor": [
+    "modal",
+    "UI",
+    "button",
+    "text",
+    "action"
+  ]
+}

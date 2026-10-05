@@ -1,0 +1,16 @@
+{
+  "name": "Cart",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used in shopping scenarios.",
+  "metaphor": [
+    "shopping",
+    "purchase",
+    "collection"
+  ]
+}

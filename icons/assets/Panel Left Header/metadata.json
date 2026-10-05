@@ -1,0 +1,17 @@
+{
+  "name": "Panel Left Header",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, loop",
+  "description": "Represents workspace in Loop, amongst other general UI layouts.",
+  "metaphor": [
+    "ui",
+    "workspace",
+    "navigation",
+    "panel"
+  ]
+}

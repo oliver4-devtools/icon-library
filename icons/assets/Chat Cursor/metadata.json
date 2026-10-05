@@ -1,0 +1,19 @@
+{
+  "name": "Chat Cursor",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used to represent cursor chat within canvas experiences.",
+  "metaphor": [
+    "cursor",
+    "edit",
+    "in context",
+    "chat",
+    "discuss",
+    "Emily made these"
+  ]
+}

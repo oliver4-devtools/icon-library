@@ -1,0 +1,19 @@
+{
+  "name": "Calendar Data Bar",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used in calendar scenarios. Contains direction variants.",
+  "metaphor": [
+    "time",
+    "date",
+    "planning",
+    "data",
+    "chart",
+    "graph"
+  ]
+}

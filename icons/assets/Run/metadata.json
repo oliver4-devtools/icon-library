@@ -1,0 +1,19 @@
+{
+  "name": "Run",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent exercise events, jogging, speed, or a sprint.",
+  "metaphor": [
+    "exercise",
+    "jog",
+    "marathon",
+    "clothing",
+    "speed",
+    "quick"
+  ]
+}

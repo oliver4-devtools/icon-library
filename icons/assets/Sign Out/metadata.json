@@ -1,0 +1,17 @@
+{
+  "name": "Sign Out",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "â ï¸ Old metaphor. Use Door Arrow Right or Person Arrow Right instead.",
+  "metaphor": [
+    "door",
+    "arrow",
+    "right",
+    "logout"
+  ]
+}

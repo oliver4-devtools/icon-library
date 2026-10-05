@@ -1,0 +1,17 @@
+{
+  "name": "Shapes",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent shape choices or collection scenarios.",
+  "metaphor": [
+    "square",
+    "circle",
+    "collection",
+    "multiple"
+  ]
+}

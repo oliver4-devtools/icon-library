@@ -1,0 +1,16 @@
+{
+  "name": "Calendar Video",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook, teams",
+  "description": "Used in calendar scenarios. Contains direction variants.",
+  "metaphor": [
+    "time",
+    "date",
+    "planning"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Clover",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, loop",
+  "description": "Used to represent component connections within Loop.",
+  "metaphor": [
+    "shared locations",
+    "single source"
+  ]
+}

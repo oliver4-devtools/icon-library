@@ -1,0 +1,17 @@
+{
+  "name": "Plant Ragweed",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, bing",
+  "description": "Used to represent a type of allergen around ragweed.",
+  "metaphor": [
+    "allergies",
+    "allergens",
+    "plant",
+    "ragweed"
+  ]
+}

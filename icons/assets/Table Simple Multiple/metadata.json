@@ -1,0 +1,16 @@
+{
+  "name": "Table Simple Multiple",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, excel",
+  "description": "Used to represent multiple tables and or tabs in a spreadsheet.",
+  "metaphor": [
+    "tab",
+    "tab",
+    ""
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Oven",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a oven & stove.",
+  "metaphor": [
+    "appliance",
+    "home",
+    "house",
+    "utility",
+    "cook",
+    "food",
+    "heat",
+    "kitchen"
+  ]
+}

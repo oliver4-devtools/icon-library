@@ -1,0 +1,76 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Oliver4 Icon Library - XrmToolBox tool.
+    Target: .NET Framework 4.8 (the framework XrmToolBox itself runs on).
+    Build: `dotnet build -c Release` with the .NET SDK on macOS, Linux or Windows (see README.md).
+
+    Package versions below are pinned to exact versions so every restore resolves the same assemblies.
+  -->
+
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <OutputType>Library</OutputType>
+    <UseWindowsForms>true</UseWindowsForms>
+    <!-- Lets the .NET SDK build this Windows-only library on macOS/Linux (no designer, just the compiler). -->
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <LangVersion>8.0</LangVersion>
+    <RootNamespace>Oliver4.IconLibrary</RootNamespace>
+    <AssemblyName>Oliver4.IconLibrary</AssemblyName>
+    <Version>1.2.3</Version>
+    <AssemblyVersion>1.2.3.0</AssemblyVersion>
+    <FileVersion>1.2.3.0</FileVersion>
+    <Authors>Oliver4</Authors>
+    <Company>Oliver4</Company>
+    <Product>Oliver4 Icon Library</Product>
+    <Description>Apply Fluent UI icons to Dataverse tables from XrmToolBox.</Description>
+    <Copyright>Copyright (c) 2026 Oliver4 Icon Library</Copyright>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
+    <Nullable>disable</Nullable>
+    <IsPackable>false</IsPackable>
+    <ProduceReferenceAssembly>false</ProduceReferenceAssembly>
+  </PropertyGroup>
+
+  <!-- Release builds carry no debug information, so no local build paths end up inside the published DLL. -->
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'">
+    <DebugType>none</DebugType>
+    <DebugSymbols>false</DebugSymbols>
+    <Deterministic>true</Deterministic>
+    <PathMap>$(MSBuildProjectDirectory)=.</PathMap>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- XrmToolBox plugin SDK: XrmToolBox.Extensibility, McTools.Xrm.Connection and the Dataverse SDK assemblies. -->
+    <PackageReference Include="XrmToolBoxPackage" Version="1.2025.10.74" />
+    <!-- XrmToolBox.Extensibility 1.2025.10.74 is compiled against this version; NuGet otherwise picks an older one and the build fails with CS1705. -->
+    <PackageReference Include="MscrmTools.Xrm.Connection" Version="1.2025.9.64" />
+    <!--
+      UI host. The tool uses the WebView2 SDK that XrmToolBox ships (Microsoft.Web.WebView2.Core / .WinForms and
+      WebView2Loader.dll). ExcludeAssets keeps the SDK files out of the build output. The version is the minimum XrmToolBoxPackage requires, so it is never newer than the copy XrmToolBox
+      ships; WebView2Assemblies.cs binds to whichever version XrmToolBox has. The WebView2 Runtime itself must be
+      installed on the machine (it is on Windows 11 and nearly all Windows 10 devices).
+    -->
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.3351.48" ExcludeAssets="runtime;native;build;buildTransitive" PrivateAssets="all" />
+    <!-- Already shipped with XrmToolBox; referenced so the bridge compiles. Keep the major version XrmToolBox ships. -->
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\THIRD-PARTY-NOTICES.txt" LogicalName="Web/THIRD-PARTY-NOTICES.txt" Visible="false" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Everything under Web\ except developer-only files is embedded and extracted at runtime. -->
+    <EmbeddedResource Include="Web\**\*" Exclude="Web\mock.js;Web\catalogue.json;Web\THIRD-PARTY-NOTICES.txt" LogicalName="Web/%(RecursiveDir)%(Filename)%(Extension)" />
+    <None Remove="Web\**\*" />
+  </ItemGroup>
+
+</Project>

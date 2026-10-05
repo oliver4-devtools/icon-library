@@ -1,0 +1,20 @@
+{
+  "name": "Position To Front",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in canvas edit scenarios when layering.",
+  "metaphor": [
+    "edit",
+    "create",
+    "layer",
+    "forward",
+    "backward",
+    "send to back",
+    "bring to front"
+  ]
+}

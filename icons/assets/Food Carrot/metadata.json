@@ -1,0 +1,17 @@
+{
+  "name": "Food Carrot",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent vegetarian/vegan diets & healthy eating and events.",
+  "metaphor": [
+    "vegetable",
+    "food",
+    "meal",
+    "event"
+  ]
+}

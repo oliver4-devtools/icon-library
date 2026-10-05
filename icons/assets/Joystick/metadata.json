@@ -1,0 +1,19 @@
+{
+  "name": "Joystick",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent arcade, fighting and classic gaming.",
+  "metaphor": [
+    "arcade",
+    "controller",
+    "classic",
+    "device",
+    "game",
+    "videogame"
+  ]
+}

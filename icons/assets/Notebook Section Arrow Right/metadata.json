@@ -1,0 +1,16 @@
+{
+  "name": "Notebook Section Arrow Right",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to denote saved spaces in notebooks.",
+  "metaphor": [
+    "bookmark",
+    "reminder",
+    "tab"
+  ]
+}

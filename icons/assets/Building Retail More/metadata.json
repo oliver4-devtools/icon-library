@@ -1,0 +1,15 @@
+{
+  "name": "Building Retail More",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a database which contains business scenario specific data.",
+  "metaphor": [
+    "datamart",
+    ""
+  ]
+}

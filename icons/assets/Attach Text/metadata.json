@@ -1,0 +1,17 @@
+{
+  "name": "Attach Text",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent files attached to communications.",
+  "metaphor": [
+    "paperclip",
+    "file",
+    "share",
+    "send"
+  ]
+}

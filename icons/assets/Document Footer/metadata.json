@@ -1,0 +1,21 @@
+{
+  "name": "Document Footer",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent file type content styles and scenarios.",
+  "metaphor": [
+    "paper",
+    "work",
+    "file",
+    "analog",
+    "edit",
+    "image",
+    "content",
+    "vertical"
+  ]
+}

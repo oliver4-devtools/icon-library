@@ -1,0 +1,17 @@
+{
+  "name": "Flowchart",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent process flows.",
+  "metaphor": [
+    "diagram",
+    "chart",
+    "flow",
+    "process"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Slide Text Call",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, powerpoint",
+  "description": "Used in slide UI scenarios.",
+  "metaphor": [
+    "slide",
+    "landscape",
+    "document",
+    "presentation",
+    "call",
+    "phone",
+    "talk"
+  ]
+}

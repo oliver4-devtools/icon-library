@@ -1,0 +1,16 @@
+{
+  "name": "Virtual Network Toolbox",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent virtual network connections.",
+  "metaphor": [
+    "connect",
+    "arrow",
+    "network"
+  ]
+}

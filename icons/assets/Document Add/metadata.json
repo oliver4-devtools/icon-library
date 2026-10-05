@@ -1,0 +1,21 @@
+{
+  "name": "Document Add",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent general file types and actions.",
+  "metaphor": [
+    "paper",
+    "work",
+    "file",
+    "analog",
+    "new",
+    "plus",
+    "create",
+    "vertical"
+  ]
+}

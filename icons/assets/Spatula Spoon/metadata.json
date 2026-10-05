@@ -1,0 +1,17 @@
+{
+  "name": "Spatula Spoon",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook, teams",
+  "description": "Used to represent general cooking topics.",
+  "metaphor": [
+    "tools",
+    "kitchen",
+    "ladle",
+    "cooking"
+  ]
+}

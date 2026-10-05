@@ -1,0 +1,19 @@
+{
+  "name": "Hard Drive",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a hard drive for computers. Collection contains Storage as well.",
+  "metaphor": [
+    "memory",
+    "storage",
+    "hardware",
+    "physical",
+    "device",
+    "save"
+  ]
+}

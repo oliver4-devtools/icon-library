@@ -1,0 +1,21 @@
+{
+  "name": "Tab Desktop Search",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, edge",
+  "description": "Used in large screen browser tab scenarios.",
+  "metaphor": [
+    "tab",
+    "mobile",
+    "desktop",
+    "rectangle",
+    "browser",
+    "search",
+    "organize",
+    "find"
+  ]
+}

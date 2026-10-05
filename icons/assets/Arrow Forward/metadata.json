@@ -1,0 +1,16 @@
+{
+  "name": "Arrow Forward",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used for forward actions in mail.",
+  "metaphor": [
+    "arrow",
+    "point",
+    "direction"
+  ]
+}

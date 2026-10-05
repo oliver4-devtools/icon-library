@@ -1,0 +1,17 @@
+{
+  "name": "Tooltip Quote",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent quotes in content.",
+  "metaphor": [
+    "text",
+    "description",
+    "type",
+    "quote"
+  ]
+}

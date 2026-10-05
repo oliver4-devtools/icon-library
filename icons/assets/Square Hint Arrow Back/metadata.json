@@ -1,0 +1,19 @@
+{
+  "name": "Square Hint Arrow Back",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent general UI, app tile, content or other general layouts",
+  "metaphor": [
+    "content",
+    "ui",
+    "image",
+    "shape",
+    "app",
+    "hidden"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Text Wrap Off",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in general type creation and editing scenarios. Represents off state of text wrapping.",
+  "metaphor": [
+    "type",
+    "text",
+    "typography",
+    "edit",
+    "create",
+    "slash"
+  ]
+}

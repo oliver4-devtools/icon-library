@@ -1,0 +1,17 @@
+{
+  "name": "HD",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent settings in video and game content.",
+  "metaphor": [
+    "video",
+    "setting",
+    "high definition",
+    "1080P"
+  ]
+}

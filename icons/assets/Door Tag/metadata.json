@@ -1,0 +1,16 @@
+{
+  "name": "Door Tag",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used to represent travel or booking a hotel.",
+  "metaphor": [
+    "hotel",
+    "travel",
+    "do not disturb"
+  ]
+}

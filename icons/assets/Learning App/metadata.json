@@ -1,0 +1,17 @@
+{
+  "name": "Learning App",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used specifically for the Learning App in teams.",
+  "metaphor": [
+    "app",
+    "knowledge",
+    "play",
+    "book"
+  ]
+}

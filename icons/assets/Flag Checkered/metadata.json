@@ -1,0 +1,19 @@
+{
+  "name": "Flag Checkered",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, edge",
+  "description": "Used to represent racing games, or goal related scenarios.",
+  "metaphor": [
+    "car",
+    "racing",
+    "game",
+    "speed",
+    "finish line",
+    "final"
+  ]
+}

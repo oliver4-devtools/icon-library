@@ -1,0 +1,18 @@
+{
+  "name": "Highlight Link",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to highlight content in edit scenarios.",
+  "metaphor": [
+    "create",
+    "edit",
+    "draw",
+    "focus",
+    "save"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Temperature",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent outdoor/indoor temperature.",
+  "metaphor": [
+    "hot",
+    "cold",
+    "outdoor",
+    "indoor",
+    "measure",
+    "weather"
+  ]
+}

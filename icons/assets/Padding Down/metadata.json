@@ -1,0 +1,16 @@
+{
+  "name": "Padding Down",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent spacing in-between elements. Contains direction variants.",
+  "metaphor": [
+    "margins",
+    "space",
+    "in-between"
+  ]
+}

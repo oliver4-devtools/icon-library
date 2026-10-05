@@ -1,0 +1,17 @@
+{
+  "name": "Arrow Eject",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for physical ejecting scenarios.",
+  "metaphor": [
+    "point",
+    "direction",
+    "up",
+    "disconnect"
+  ]
+}

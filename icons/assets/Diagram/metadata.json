@@ -1,0 +1,16 @@
+{
+  "name": "Diagram",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, word, powerpoint",
+  "description": "Used as a top level diagram representation.",
+  "metaphor": [
+    "data",
+    "chart",
+    "edit"
+  ]
+}

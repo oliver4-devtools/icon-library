@@ -1,0 +1,19 @@
+{
+  "name": "Heart Pulse",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent health (physically or device).",
+  "metaphor": [
+    "love",
+    "like",
+    "follow",
+    "save",
+    "pulse",
+    "medical"
+  ]
+}

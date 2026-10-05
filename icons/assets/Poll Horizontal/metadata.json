@@ -1,0 +1,17 @@
+{
+  "name": "Poll Horizontal",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent poll voting scenarios.",
+  "metaphor": [
+    "vote",
+    "survey",
+    "ballot",
+    "opinion"
+  ]
+}

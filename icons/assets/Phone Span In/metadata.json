@@ -1,0 +1,22 @@
+{
+  "name": "Phone Span In",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent digital changes in content on screen. Contains in and out variants.",
+  "metaphor": [
+    "device",
+    "mobile",
+    "small screen",
+    "cellular telephone",
+    "apple",
+    "android",
+    "resize",
+    "scale",
+    "fit"
+  ]
+}

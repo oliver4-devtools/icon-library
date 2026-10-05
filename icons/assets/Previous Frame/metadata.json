@@ -1,0 +1,18 @@
+{
+  "name": "Previous Frame",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to jump to next item. Paired with Next Frame.",
+  "metaphor": [
+    "skip",
+    "jump",
+    "rewind",
+    "play",
+    "navigate"
+  ]
+}

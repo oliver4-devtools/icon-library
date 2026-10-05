@@ -1,0 +1,18 @@
+{
+  "name": "Panel Top Gallery",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent the plethora of secondary, elevated panels in UI.",
+  "metaphor": [
+    "pane",
+    "sidebar",
+    "modal",
+    "elevate",
+    "gallery"
+  ]
+}

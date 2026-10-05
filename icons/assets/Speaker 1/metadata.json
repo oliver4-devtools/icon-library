@@ -1,0 +1,16 @@
+{
+  "name": "Speaker 1",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in volume & various audio setting scenarios.",
+  "metaphor": [
+    "audio",
+    "sound",
+    "volume"
+  ]
+}

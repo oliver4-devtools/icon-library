@@ -1,0 +1,16 @@
+{
+  "name": "Mention Arrow Down",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a mention in UI.",
+  "metaphor": [
+    "comment",
+    "suggestion",
+    "person"
+  ]
+}

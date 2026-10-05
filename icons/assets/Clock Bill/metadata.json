@@ -1,0 +1,20 @@
+{
+  "name": "Clock Bill",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for billable hours.",
+  "metaphor": [
+    "time",
+    "watch",
+    "analog",
+    "work",
+    "hours",
+    "bill",
+    "billable"
+  ]
+}

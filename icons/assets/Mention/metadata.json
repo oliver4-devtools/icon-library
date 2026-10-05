@@ -1,0 +1,16 @@
+{
+  "name": "Mention",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook, teams",
+  "description": "Used to represent a mention in UI.",
+  "metaphor": [
+    "comment",
+    "suggestion",
+    "person"
+  ]
+}

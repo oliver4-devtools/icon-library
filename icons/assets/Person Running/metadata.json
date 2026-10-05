@@ -1,0 +1,16 @@
+{
+  "name": "Person Running",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used to represent late for a meeting.",
+  "metaphor": [
+    "person",
+    "late",
+    "time"
+  ]
+}

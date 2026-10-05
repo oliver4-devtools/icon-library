@@ -1,0 +1,17 @@
+{
+  "name": "Dual Screen Tablet",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, android",
+  "description": "Used in foldable screen scenarios.",
+  "metaphor": [
+    "duo",
+    "open",
+    "double screen",
+    "foldable"
+  ]
+}

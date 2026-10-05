@@ -1,0 +1,16 @@
+{
+  "name": "List",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a list view in content.",
+  "metaphor": [
+    "text",
+    "line",
+    "view"
+  ]
+}

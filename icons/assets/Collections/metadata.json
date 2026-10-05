@@ -1,0 +1,16 @@
+{
+  "name": "Collections",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, edge",
+  "description": "Used in Edge specifically for collections.",
+  "metaphor": [
+    "browser",
+    "store",
+    "selection"
+  ]
+}

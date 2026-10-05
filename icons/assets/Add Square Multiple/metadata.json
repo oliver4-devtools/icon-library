@@ -1,0 +1,19 @@
+{
+  "name": "Add Square Multiple",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for multiple adding actions.",
+  "metaphor": [
+    "plus",
+    "addition",
+    "new",
+    "circle",
+    "stack",
+    "library"
+  ]
+}

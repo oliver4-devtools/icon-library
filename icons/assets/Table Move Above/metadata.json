@@ -1,0 +1,18 @@
+{
+  "name": "Table Move Above",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, excel",
+  "description": "Used in moving column and row scenarios. Contains directional variants.",
+  "metaphor": [
+    "cell",
+    "row",
+    "column",
+    "information",
+    "chart"
+  ]
+}

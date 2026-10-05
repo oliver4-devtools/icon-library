@@ -1,0 +1,17 @@
+{
+  "name": "Feed",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent event feed in UI.",
+  "metaphor": [
+    "paper",
+    "events",
+    "news",
+    "track"
+  ]
+}

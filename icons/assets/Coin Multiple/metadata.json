@@ -1,0 +1,17 @@
+{
+  "name": "Coin Multiple",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent 'credit balance' around work tokens plus generic coin usage.",
+  "metaphor": [
+    "money",
+    "stack",
+    "credit",
+    "balance"
+  ]
+}

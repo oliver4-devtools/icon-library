@@ -1,0 +1,16 @@
+{
+  "name": "Bin Full",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to shipping, production scenarios.",
+  "metaphor": [
+    "box",
+    "shipping",
+    "cargo"
+  ]
+}

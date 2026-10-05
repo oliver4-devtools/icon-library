@@ -1,0 +1,20 @@
+{
+  "name": "Xbox Controller Error",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, xbox",
+  "description": "Used in controller issue scenarios.",
+  "metaphor": [
+    "gaming",
+    "xbox",
+    "controller",
+    "device",
+    "error",
+    "warning",
+    "exclamation mark"
+  ]
+}

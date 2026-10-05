@@ -1,0 +1,18 @@
+{
+  "name": "Line Horizontal 1 Dashes",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent line drawing styles.",
+  "metaphor": [
+    "style",
+    "create",
+    "edit",
+    "draw",
+    "dash"
+  ]
+}

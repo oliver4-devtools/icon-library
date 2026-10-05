@@ -1,0 +1,16 @@
+{
+  "name": "Certificate",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for browser certs & education scenarios.",
+  "metaphor": [
+    "diploma",
+    "education",
+    "ribbon"
+  ]
+}

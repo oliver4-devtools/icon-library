@@ -1,0 +1,18 @@
+{
+  "name": "People Audience",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a large audience and for teams view in video calls.",
+  "metaphor": [
+    "group",
+    "team",
+    "organization",
+    "contact",
+    "guest"
+  ]
+}

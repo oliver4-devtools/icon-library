@@ -1,0 +1,20 @@
+{
+  "name": "Image Border",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, excel",
+  "description": "Used to represent adding decoration to imagesâincluding borders and other decorations.",
+  "metaphor": [
+    "image",
+    "picture",
+    "pic",
+    "photo",
+    "table",
+    "cell",
+    "place in"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "Mountain Trail",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a trail down a mountain, whether for a ski run, or for a pathway.",
+  "metaphor": [
+    "mountain",
+    "travel",
+    "vacation",
+    "location",
+    "hiking",
+    "ski run",
+    "path",
+    "trail",
+    "mountain",
+    "exercise"
+  ]
+}

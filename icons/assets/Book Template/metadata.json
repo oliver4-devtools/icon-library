@@ -1,0 +1,16 @@
+{
+  "name": "Book Template",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a template for data information.",
+  "metaphor": [
+    "read",
+    "formula",
+    "template"
+  ]
+}

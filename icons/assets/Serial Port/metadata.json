@@ -1,0 +1,18 @@
+{
+  "name": "Serial Port",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent physical connection ports in devices.",
+  "metaphor": [
+    "analog",
+    "plug",
+    "port",
+    "cord",
+    "device"
+  ]
+}

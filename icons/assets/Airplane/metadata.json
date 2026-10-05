@@ -1,0 +1,16 @@
+{
+  "name": "Airplane",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for lift off time and general travel.",
+  "metaphor": [
+    "flight",
+    "vehicle",
+    "travel"
+  ]
+}

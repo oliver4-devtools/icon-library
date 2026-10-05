@@ -1,0 +1,17 @@
+{
+  "name": "Navigation",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in general menu expand scenarios.",
+  "metaphor": [
+    "menu",
+    "hamburger",
+    "line",
+    "three"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Calendar Month",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook, teams",
+  "description": "Used to change view to month view in calendar.",
+  "metaphor": [
+    "time",
+    "date",
+    "planning",
+    "dataset"
+  ]
+}

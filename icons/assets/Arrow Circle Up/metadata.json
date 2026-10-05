@@ -1,0 +1,17 @@
+{
+  "name": "Arrow Circle Up",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for directional indicators.",
+  "metaphor": [
+    "point",
+    "direction",
+    "vertical",
+    "circle"
+  ]
+}

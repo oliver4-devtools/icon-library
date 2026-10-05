@@ -1,0 +1,16 @@
+{
+  "name": "Pi",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, word, powerpoint",
+  "description": "Used to insert math formulas in products. It also represents the ratio of a circle's circumference to its diameter.",
+  "metaphor": [
+    "mathematics",
+    "3.14159265359",
+    "formula"
+  ]
+}

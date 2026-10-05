@@ -1,0 +1,16 @@
+{
+  "name": "Checkbox Indeterminate",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for toggle selection states. Contains state variants.",
+  "metaphor": [
+    "selection",
+    "check",
+    "checkmark"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Food Fish",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent fish diet, or seafood cuisine and events.",
+  "metaphor": [
+    "pescatarian",
+    "food",
+    "meal",
+    "event"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Calendar Date",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook, teams",
+  "description": "â ï¸ Not in repo. Used only for examples that need a mock date.",
+  "metaphor": [
+    "time",
+    "date",
+    "planning"
+  ]
+}

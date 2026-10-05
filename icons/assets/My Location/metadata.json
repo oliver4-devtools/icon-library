@@ -1,0 +1,17 @@
+{
+  "name": "My Location",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to specific pinpoint marker in map & location scenarios.",
+  "metaphor": [
+    "location",
+    "pinpoint",
+    "map",
+    "maker"
+  ]
+}

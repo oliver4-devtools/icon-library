@@ -1,0 +1,17 @@
+{
+  "name": "Payment",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in purchase funnels and payment options. Other options include Money, Wallet, Wallet Credit Card.",
+  "metaphor": [
+    "currency",
+    "money",
+    "credit card",
+    "card"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Rectangle Landscape Sync",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used to represent share view in teams amongst general UI syncing.",
+  "metaphor": [
+    "share view",
+    "shape",
+    "arrows",
+    "arrow clockwise"
+  ]
+}

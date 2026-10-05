@@ -1,0 +1,17 @@
+{
+  "name": "Food",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent food based scenarios (restaurant, meals, etc).",
+  "metaphor": [
+    "meal",
+    "travel",
+    "restaurant",
+    "eat"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Tetris App",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used in Teams to represent a to do app.",
+  "metaphor": [
+    "stack",
+    "puzzle",
+    "music"
+  ]
+}

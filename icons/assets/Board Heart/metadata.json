@@ -1,0 +1,15 @@
+{
+  "name": "Board Heart",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used for board views, collecting columns in a horizontal view.",
+  "metaphor": [
+    "read",
+    "calendar"
+  ]
+}

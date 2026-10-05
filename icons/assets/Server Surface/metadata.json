@@ -1,0 +1,17 @@
+{
+  "name": "Server Surface",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, visual studio code",
+  "description": "Used to represent a server environments.",
+  "metaphor": [
+    "environment",
+    "server",
+    "framework",
+    "multiple"
+  ]
+}

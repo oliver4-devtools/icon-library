@@ -1,0 +1,15 @@
+{
+  "name": "Grid Dots",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used as the app menu in office.",
+  "metaphor": [
+    "waffle",
+    "app menu"
+  ]
+}

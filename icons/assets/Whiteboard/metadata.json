@@ -1,0 +1,19 @@
+{
+  "name": "Whiteboard",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent brainstorming scenearios.",
+  "metaphor": [
+    "draw",
+    "pencil",
+    "sketch",
+    "create",
+    "brainstorm",
+    "curve"
+  ]
+}

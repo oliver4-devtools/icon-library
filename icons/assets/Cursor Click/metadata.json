@@ -1,0 +1,16 @@
+{
+  "name": "Cursor Click",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": null,
+  "metaphor": [
+    "arrow",
+    "interact",
+    "click.\n\nUsed in user cursor scenarios."
+  ]
+}

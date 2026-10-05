@@ -1,0 +1,19 @@
+{
+  "name": "Sticker",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent sticker collections in UI.",
+  "metaphor": [
+    "content",
+    "patch",
+    "emote",
+    "emotion",
+    "vote",
+    "fun"
+  ]
+}

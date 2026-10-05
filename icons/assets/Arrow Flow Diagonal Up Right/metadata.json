@@ -1,0 +1,16 @@
+{
+  "name": "Arrow Flow Diagonal Up Right",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used for scenarios involving connection points.",
+  "metaphor": [
+    "arrow",
+    "direction",
+    "diagonal"
+  ]
+}
