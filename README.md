@@ -4,7 +4,7 @@ An XrmToolBox tool that applies a Fluent UI icon to a Dataverse table in a few c
 
 ## Install
 
-1. Download the latest `Oliver4.IconLibrary-<version>.zip` from the [Releases](../../releases) page.
+1. Download the ZIP from https://www.oliver4-devtools.com/tools/icon-library/ and extract it.
 2. Close XrmToolBox and copy `Oliver4.IconLibrary.dll` into your XrmToolBox Plugins folder (default `%APPDATA%\MscrmTools\XrmToolBox\Plugins`).
 3. If Windows blocked the download, right-click the DLL > Properties > tick **Unblock**.
 4. Start XrmToolBox and open **Oliver4 Icon Library**.
