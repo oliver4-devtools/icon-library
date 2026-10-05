@@ -1,0 +1,16 @@
+{
+  "name": "Grid",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent grid view in products. Not a Microsoft logo.",
+  "metaphor": [
+    "margins",
+    "collect",
+    "view"
+  ]
+}

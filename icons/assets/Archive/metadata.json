@@ -1,0 +1,16 @@
+{
+  "name": "Archive",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used for archiving content.",
+  "metaphor": [
+    "box",
+    "package",
+    "collection"
+  ]
+}

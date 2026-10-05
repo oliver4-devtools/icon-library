@@ -1,0 +1,18 @@
+{
+  "name": "Document Person",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent shared file types and actions.",
+  "metaphor": [
+    "paper",
+    "work",
+    "file",
+    "analog",
+    "horizontal"
+  ]
+}

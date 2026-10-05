@@ -1,0 +1,17 @@
+{
+  "name": "Showerhead",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent bathroom or other shower scenarios in the home or other buildings.",
+  "metaphor": [
+    "home",
+    "bathroom",
+    "water",
+    "shower"
+  ]
+}

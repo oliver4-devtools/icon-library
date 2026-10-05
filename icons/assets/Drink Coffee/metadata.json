@@ -1,0 +1,16 @@
+{
+  "name": "Drink Coffee",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for restaurant, product & calendar scenarios. Contains state variants.",
+  "metaphor": [
+    "relax",
+    "meal",
+    "coffee"
+  ]
+}

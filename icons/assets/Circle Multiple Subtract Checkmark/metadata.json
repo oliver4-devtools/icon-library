@@ -1,0 +1,17 @@
+{
+  "name": "Circle Multiple Subtract Checkmark",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used in specific 'notify when available' scenarios.",
+  "metaphor": [
+    "checkmark",
+    "notify",
+    "block",
+    "dash"
+  ]
+}

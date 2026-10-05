@@ -1,0 +1,16 @@
+{
+  "name": "Hexagon",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "",
+  "metaphor": [
+    "shape",
+    "web app builder module",
+    "6 sided"
+  ]
+}

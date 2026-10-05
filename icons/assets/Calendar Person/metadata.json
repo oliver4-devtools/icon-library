@@ -1,0 +1,16 @@
+{
+  "name": "Calendar Person",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook, teams",
+  "description": "Used in calendar scenarios.",
+  "metaphor": [
+    "time",
+    "date",
+    "planning"
+  ]
+}

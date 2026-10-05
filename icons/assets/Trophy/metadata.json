@@ -1,0 +1,19 @@
+{
+  "name": "Trophy",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent rewards, top award, or celebration events.",
+  "metaphor": [
+    "award",
+    "medal",
+    "congratulations",
+    "celebrate",
+    "win",
+    "slash"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Backspace",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used in keyboard backspace scenarios.",
+  "metaphor": [
+    "keyboard",
+    "key",
+    "delete"
+  ]
+}

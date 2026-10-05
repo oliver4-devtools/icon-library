@@ -1,0 +1,17 @@
+{
+  "name": "Link Multiple",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for generic linking collections only. Use Link for standard single link scenarios.",
+  "metaphor": [
+    "link",
+    "share",
+    "web",
+    "internet"
+  ]
+}

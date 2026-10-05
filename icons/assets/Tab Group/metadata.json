@@ -1,0 +1,19 @@
+{
+  "name": "Tab Group",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, edge",
+  "description": "Used to represent tab grouping.",
+  "metaphor": [
+    "tab",
+    "mobile",
+    "desktop",
+    "rectangle",
+    "browser",
+    "group"
+  ]
+}

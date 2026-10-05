@@ -1,0 +1,15 @@
+{
+  "name": "Content View",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used in generic content representation.",
+  "metaphor": [
+    "window",
+    "feed"
+  ]
+}

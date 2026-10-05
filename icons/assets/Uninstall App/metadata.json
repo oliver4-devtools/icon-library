@@ -1,0 +1,16 @@
+{
+  "name": "Uninstall App",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for plugins, apps, tools. Tied to Apps & Apps Add In.",
+  "metaphor": [
+    "plugin",
+    "square",
+    "stack"
+  ]
+}

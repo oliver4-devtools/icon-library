@@ -1,0 +1,18 @@
+{
+  "name": "Tap Single",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent tap actions in touchscreen scenarios. Contains single and double tap variants.",
+  "metaphor": [
+    "hand",
+    "touch",
+    "gesture",
+    "device",
+    "physical"
+  ]
+}

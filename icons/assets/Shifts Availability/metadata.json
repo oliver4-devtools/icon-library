@@ -1,0 +1,22 @@
+{
+  "name": "Shifts Availability",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used in frontline scheduling scenarios.",
+  "metaphor": [
+    "work",
+    "frontline",
+    "time",
+    "clock",
+    "schedule",
+    "checkmark",
+    "dismiss",
+    "x",
+    "close"
+  ]
+}

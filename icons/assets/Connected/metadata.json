@@ -1,0 +1,16 @@
+{
+  "name": "Connected",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to indicate extensible app connectivity built in.",
+  "metaphor": [
+    "x",
+    "star",
+    "apps"
+  ]
+}

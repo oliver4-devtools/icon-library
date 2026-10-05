@@ -1,0 +1,19 @@
+{
+  "name": "Phone Desktop Add",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a physical or digital mobile phone scenarios.",
+  "metaphor": [
+    "device",
+    "mobile",
+    "small screen",
+    "cellular telephone",
+    "apple",
+    "android"
+  ]
+}

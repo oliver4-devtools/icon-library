@@ -1,0 +1,15 @@
+{
+  "name": "Book Toolbox",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, word, excel, powerpoint",
+  "description": "Used in scenarios involving settings.",
+  "metaphor": [
+    "read",
+    "formulas"
+  ]
+}

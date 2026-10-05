@@ -1,0 +1,21 @@
+{
+  "name": "Swimming Pool",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a pool, hot tub, or other water elements in a home or other building.",
+  "metaphor": [
+    "ocean",
+    "waterfront",
+    "swim",
+    "pool",
+    "hot tub",
+    "jacuzzi",
+    "hotel",
+    "home"
+  ]
+}

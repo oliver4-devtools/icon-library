@@ -1,0 +1,16 @@
+{
+  "name": "Calendar Work Week",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook, teams",
+  "description": "Used to change view to work week view in calendar.",
+  "metaphor": [
+    "time",
+    "date",
+    "planning"
+  ]
+}

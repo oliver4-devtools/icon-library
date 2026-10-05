@@ -1,0 +1,21 @@
+{
+  "name": "Vehicle Truck Profile",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent general cargo scenarios.",
+  "metaphor": [
+    "travel",
+    "ride",
+    "map",
+    "commute",
+    "pedal",
+    "truck",
+    "manufacture",
+    "cargo"
+  ]
+}

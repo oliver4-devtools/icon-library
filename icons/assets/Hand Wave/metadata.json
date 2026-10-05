@@ -1,0 +1,15 @@
+{
+  "name": "Hand Wave",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for general welcome gestures and activation for sign language features.",
+  "metaphor": [
+    "sign language",
+    "gesture"
+  ]
+}

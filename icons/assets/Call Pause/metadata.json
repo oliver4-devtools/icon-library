@@ -1,0 +1,15 @@
+{
+  "name": "Call Pause",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used in call scenarios.",
+  "metaphor": [
+    "handset",
+    "audio"
+  ]
+}

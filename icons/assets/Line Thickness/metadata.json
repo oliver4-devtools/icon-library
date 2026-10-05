@@ -1,0 +1,20 @@
+{
+  "name": "Line Thickness",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in inking, brush, or general drawing size scenarios.",
+  "metaphor": [
+    "ink",
+    "draw",
+    "brush",
+    "thickness",
+    "style",
+    "size",
+    "change"
+  ]
+}

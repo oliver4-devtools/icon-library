@@ -1,0 +1,20 @@
+{
+  "name": "Prompt",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in AI powered prompt scenarios.",
+  "metaphor": [
+    "query",
+    "ask",
+    "suggest",
+    "instruct",
+    "prompts",
+    "AI",
+    "sparkle"
+  ]
+}

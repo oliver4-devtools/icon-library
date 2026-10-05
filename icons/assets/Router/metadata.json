@@ -1,0 +1,18 @@
+{
+  "name": "Router",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a wifi router.",
+  "metaphor": [
+    "device",
+    "wifi",
+    "signal",
+    "strength",
+    "connection"
+  ]
+}

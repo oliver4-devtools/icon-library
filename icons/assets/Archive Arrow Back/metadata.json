@@ -1,0 +1,16 @@
+{
+  "name": "Archive Arrow Back",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used in moments to undo archiving content.",
+  "metaphor": [
+    "box",
+    "package",
+    "collection"
+  ]
+}

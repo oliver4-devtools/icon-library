@@ -1,0 +1,18 @@
+{
+  "name": "Voicemail",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used to represent a voice message recording and audio playback scenarios.",
+  "metaphor": [
+    "tape",
+    "playback",
+    "audio",
+    "recording",
+    "message"
+  ]
+}

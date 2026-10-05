@@ -1,0 +1,19 @@
+{
+  "name": "Edit Person",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in editing/update or drawing scenarios.",
+  "metaphor": [
+    "pencil",
+    "update",
+    "create",
+    "draw",
+    "person",
+    "personal"
+  ]
+}

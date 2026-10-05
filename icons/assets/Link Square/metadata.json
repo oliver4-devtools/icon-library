@@ -1,0 +1,17 @@
+{
+  "name": "Link Square",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used in sharing to multiple channels in Teams.",
+  "metaphor": [
+    "cross-posting",
+    "share",
+    "channel",
+    "multiple"
+  ]
+}

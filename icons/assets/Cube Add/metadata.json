@@ -1,0 +1,16 @@
+{
+  "name": "Cube Add",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in 3D experience scenarios.",
+  "metaphor": [
+    "3D",
+    "depth",
+    "z-axis"
+  ]
+}

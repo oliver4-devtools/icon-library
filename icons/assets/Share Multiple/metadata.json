@@ -1,0 +1,19 @@
+{
+  "name": "Share Multiple",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in sharing information scenarios.",
+  "metaphor": [
+    "arrow",
+    "square",
+    "forward",
+    "right",
+    "send",
+    "multiple"
+  ]
+}

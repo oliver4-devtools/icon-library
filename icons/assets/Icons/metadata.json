@@ -1,0 +1,16 @@
+{
+  "name": "Icons",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent general icon picker.",
+  "metaphor": [
+    "duck",
+    "leaf",
+    "content"
+  ]
+}

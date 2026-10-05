@@ -1,0 +1,16 @@
+{
+  "name": "Arrow Swap",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for swapping content.",
+  "metaphor": [
+    "arrow",
+    "direction",
+    "replacing"
+  ]
+}

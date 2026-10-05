@@ -1,0 +1,16 @@
+{
+  "name": "Person Star",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent people who are set to favorites, very important person, etc.",
+  "metaphor": [
+    "favorite",
+    "selected",
+    "people"
+  ]
+}

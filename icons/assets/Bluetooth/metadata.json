@@ -1,0 +1,15 @@
+{
+  "name": "Bluetooth",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for device bluetooth scenarios.",
+  "metaphor": [
+    "device",
+    "connection"
+  ]
+}

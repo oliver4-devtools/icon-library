@@ -1,0 +1,18 @@
+{
+  "name": "Arrow Curve Down Right",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for directional indicators, links. Contains directional variants.",
+  "metaphor": [
+    "point",
+    "direction",
+    "up",
+    "down",
+    "horizontal"
+  ]
+}

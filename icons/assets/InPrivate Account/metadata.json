@@ -1,0 +1,17 @@
+{
+  "name": "InPrivate Account",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, edge",
+  "description": "Used to represent a private browsing account.",
+  "metaphor": [
+    "private",
+    "mode",
+    "browser",
+    "person"
+  ]
+}

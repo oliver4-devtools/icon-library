@@ -1,0 +1,16 @@
+{
+  "name": "Engine",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for a more technical view of car internals.",
+  "metaphor": [
+    "vehicle",
+    "block",
+    "gas"
+  ]
+}

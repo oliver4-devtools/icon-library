@@ -1,0 +1,16 @@
+{
+  "name": "Arrow Move",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for positioning content.",
+  "metaphor": [
+    "point",
+    "direction",
+    "position"
+  ]
+}

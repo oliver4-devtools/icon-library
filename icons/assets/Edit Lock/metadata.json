@@ -1,0 +1,16 @@
+{
+  "name": "Edit Lock",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Represents locking content, to prevent any edits.",
+  "metaphor": [
+    "pencil",
+    "update",
+    "view-only"
+  ]
+}

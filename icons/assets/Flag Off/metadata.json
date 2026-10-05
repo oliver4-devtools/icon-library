@@ -1,0 +1,16 @@
+{
+  "name": "Flag Off",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used in mail to mark as important.",
+  "metaphor": [
+    "urgent",
+    "important",
+    "look"
+  ]
+}

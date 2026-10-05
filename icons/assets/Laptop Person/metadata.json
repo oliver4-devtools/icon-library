@@ -1,0 +1,21 @@
+{
+  "name": "Laptop Person",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for personal laptop computer.",
+  "metaphor": [
+    "device",
+    "computer",
+    "device",
+    "mobile",
+    "travel",
+    "wfh",
+    "person",
+    "personal"
+  ]
+}

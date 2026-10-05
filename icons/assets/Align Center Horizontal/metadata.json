@@ -1,0 +1,16 @@
+{
+  "name": "Align Center Horizontal",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to align content.",
+  "metaphor": [
+    "alignment",
+    "edit",
+    "design"
+  ]
+}

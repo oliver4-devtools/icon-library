@@ -1,0 +1,16 @@
+{
+  "name": "Doctor",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent doctors, hospitals, and general medical scenarios.",
+  "metaphor": [
+    "medical",
+    "medicine",
+    "hospital"
+  ]
+}

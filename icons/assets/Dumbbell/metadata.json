@@ -1,0 +1,17 @@
+{
+  "name": "Dumbbell",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used in exercise scenarios.",
+  "metaphor": [
+    "exercise",
+    "health",
+    "weight",
+    "lift"
+  ]
+}

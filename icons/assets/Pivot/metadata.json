@@ -1,0 +1,19 @@
+{
+  "name": "Pivot",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent shifting table rows and columns.",
+  "metaphor": [
+    "table",
+    "content",
+    "switch",
+    "cell",
+    "column",
+    "row"
+  ]
+}

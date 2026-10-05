@@ -1,0 +1,16 @@
+{
+  "name": "Server Link",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, intune",
+  "description": "Used to represent links physical & digital server machines.",
+  "metaphor": [
+    "device",
+    "data",
+    "connection"
+  ]
+}

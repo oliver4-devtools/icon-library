@@ -1,0 +1,17 @@
+{
+  "name": "Laptop Shield",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in security on laptop scenarios.",
+  "metaphor": [
+    "protect",
+    "security",
+    "device",
+    "safety"
+  ]
+}

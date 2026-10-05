@@ -1,0 +1,18 @@
+{
+  "name": "Table Picnic",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a picnic table.",
+  "metaphor": [
+    "picnic",
+    "table",
+    "outdoor",
+    "food",
+    "gathering"
+  ]
+}

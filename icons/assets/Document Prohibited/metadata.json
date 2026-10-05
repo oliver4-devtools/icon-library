@@ -1,0 +1,18 @@
+{
+  "name": "Document Prohibited",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent blocked, missing, or no access to files.",
+  "metaphor": [
+    "paper",
+    "work",
+    "file",
+    "analog",
+    "horizontal"
+  ]
+}

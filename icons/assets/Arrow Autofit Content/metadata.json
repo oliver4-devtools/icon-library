@@ -1,0 +1,17 @@
+{
+  "name": "Arrow Autofit Content",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "â ï¸ Duplicate metaphor. Use Arrow Autofit instead.",
+  "metaphor": [
+    "width",
+    "height",
+    "resize",
+    "fill"
+  ]
+}

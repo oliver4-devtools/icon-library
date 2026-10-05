@@ -1,0 +1,17 @@
+{
+  "name": "Double Swipe Down",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used to represent user action on touchscreens.",
+  "metaphor": [
+    "action",
+    "tap",
+    "touch screen",
+    "gesture"
+  ]
+}

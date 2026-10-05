@@ -1,0 +1,16 @@
+{
+  "name": "Quiz New",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, forms",
+  "description": "Used to represent a new quiz in Forms.",
+  "metaphor": [
+    "new",
+    "add",
+    "plus"
+  ]
+}

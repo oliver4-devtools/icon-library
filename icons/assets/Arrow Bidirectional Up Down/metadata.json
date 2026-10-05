@@ -1,0 +1,16 @@
+{
+  "name": "Arrow Bidirectional Up Down",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for measuring height.",
+  "metaphor": [
+    "up",
+    "down",
+    "height"
+  ]
+}

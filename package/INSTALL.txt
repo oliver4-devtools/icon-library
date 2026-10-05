@@ -1,0 +1,20 @@
+Oliver4 Icon Library - manual install
+=====================================
+
+1. Close XrmToolBox.
+2. Copy Oliver4.IconLibrary.dll into your XrmToolBox Plugins folder.
+   Default location:  %APPDATA%\MscrmTools\XrmToolBox\Plugins
+   (XrmToolBox > Configuration > Settings > Paths shows the folder if you changed it.)
+   That one file is the whole tool. The icons and the UI are inside it. It uses the
+   WebView2 components that come with XrmToolBox.
+3. If Windows blocked the download, right-click the DLL > Properties > Unblock,
+   otherwise XrmToolBox may refuse to load it.
+4. Start XrmToolBox and open "Oliver4 Icon Library".
+
+Requirements
+  - XrmToolBox 1.2025.10 or later (.NET Framework 4.8)
+  - Microsoft Edge WebView2 Runtime (already present on Windows 10/11 with Microsoft Edge).
+    If the tool reports it is missing: https://developer.microsoft.com/microsoft-edge/webview2/
+
+The tool unpacks its UI files to %LOCALAPPDATA%\Oliver4\IconLibrary on first use.
+Delete that folder to reset it.

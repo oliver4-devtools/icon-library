@@ -1,0 +1,16 @@
+{
+  "name": "Dentist",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a dentist.",
+  "metaphor": [
+    "medical",
+    "tooth",
+    "mouth"
+  ]
+}

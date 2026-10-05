@@ -1,0 +1,19 @@
+{
+  "name": "Balcony",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a balcony.",
+  "metaphor": [
+    "house",
+    "balcony",
+    "patio",
+    "space",
+    "outdoor",
+    "apartment"
+  ]
+}

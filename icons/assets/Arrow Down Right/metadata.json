@@ -1,0 +1,17 @@
+{
+  "name": "Arrow Down Right",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for general arrow scenarios.",
+  "metaphor": [
+    "arrow",
+    "up",
+    "direction",
+    "point"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Print",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a physical or digital printer.",
+  "metaphor": [
+    "printer",
+    "paper",
+    "copy",
+    "fax",
+    "analog",
+    "office",
+    "ink"
+  ]
+}

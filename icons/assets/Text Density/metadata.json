@@ -1,0 +1,20 @@
+{
+  "name": "Text Density",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to select text density in UI scenarios.",
+  "metaphor": [
+    "type",
+    "text",
+    "typography",
+    "edit",
+    "create",
+    "comfy",
+    "cozy"
+  ]
+}

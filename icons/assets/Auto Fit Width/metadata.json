@@ -1,0 +1,19 @@
+{
+  "name": "Auto Fit Width",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to scale content to fit. Similar to Arrow Fit. Contains directional variants.",
+  "metaphor": [
+    "point",
+    "direction",
+    "horizontal",
+    "vertical",
+    "scale",
+    "fit"
+  ]
+}

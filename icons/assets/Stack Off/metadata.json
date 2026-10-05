@@ -1,0 +1,18 @@
+{
+  "name": "Stack Off",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent stacked content & collections.",
+  "metaphor": [
+    "content",
+    "landscape",
+    "collection",
+    "disable",
+    "off"
+  ]
+}

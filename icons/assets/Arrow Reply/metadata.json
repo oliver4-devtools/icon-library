@@ -1,0 +1,17 @@
+{
+  "name": "Arrow Reply",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used to reply back in mail. Contains directional variants.",
+  "metaphor": [
+    "arrow",
+    "direction",
+    "back",
+    "reply"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Lottery",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, stream",
+  "description": "Used to represent lottery & raffle scenarios.",
+  "metaphor": [
+    "seven",
+    "lucky",
+    "win",
+    "raffle"
+  ]
+}

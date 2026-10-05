@@ -1,0 +1,17 @@
+{
+  "name": "Frame",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a frame or art board in canvas UI.",
+  "metaphor": [
+    "canvas",
+    "group",
+    "collection",
+    "art board"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Call Missed",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used in call scenarios.",
+  "metaphor": [
+    "handset",
+    "audio"
+  ]
+}

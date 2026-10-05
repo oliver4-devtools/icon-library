@@ -1,0 +1,19 @@
+{
+  "name": "Image Alt Text",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent images in content and photo editing scenarios.",
+  "metaphor": [
+    "photo",
+    "picture",
+    "snapshot",
+    "content",
+    "note",
+    "alternative text"
+  ]
+}

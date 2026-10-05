@@ -1,0 +1,17 @@
+{
+  "name": "Mail Prohibited",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook",
+  "description": "Used in general mail scenarios.",
+  "metaphor": [
+    "envelope",
+    "email",
+    "delivery",
+    "message"
+  ]
+}

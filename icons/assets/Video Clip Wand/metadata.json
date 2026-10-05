@@ -1,0 +1,25 @@
+{
+  "name": "Video Clip Wand",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent video content enhanced.",
+  "metaphor": [
+    "video",
+    "film",
+    "clip",
+    "media",
+    "content",
+    "camera",
+    "recording",
+    "capture",
+    "magic",
+    "wand",
+    "enhance",
+    "optimize"
+  ]
+}

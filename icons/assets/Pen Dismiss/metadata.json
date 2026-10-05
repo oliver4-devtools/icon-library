@@ -1,0 +1,21 @@
+{
+  "name": "Pen Dismiss",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a signature, a device drawing input. Use edit in common editing scenarios.",
+  "metaphor": [
+    "edit",
+    "update",
+    "create",
+    "draw",
+    "dismiss",
+    "x",
+    "cancel",
+    "permission"
+  ]
+}

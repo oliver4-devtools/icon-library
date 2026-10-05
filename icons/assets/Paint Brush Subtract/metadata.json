@@ -1,0 +1,20 @@
+{
+  "name": "Paint Brush Subtract",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to remove photo mask/selection.",
+  "metaphor": [
+    "color",
+    "paint",
+    "design",
+    "format",
+    "analog",
+    "remove",
+    "minus"
+  ]
+}

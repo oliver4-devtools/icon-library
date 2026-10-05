@@ -1,0 +1,17 @@
+{
+  "name": "Triangle",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": null,
+  "metaphor": [
+    "triangle",
+    "shape",
+    "arrow",
+    "Used for general pointing. Contains directional variants."
+  ]
+}

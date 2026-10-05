@@ -1,0 +1,15 @@
+{
+  "name": "Walkie Talkie",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, xbox",
+  "description": "Used to represent short wave communication devices.",
+  "metaphor": [
+    "device",
+    "communication"
+  ]
+}

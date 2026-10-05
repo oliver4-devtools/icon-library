@@ -1,0 +1,18 @@
+{
+  "name": "Arrow Step In Diagonal Down Left",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for debugging scenarios.",
+  "metaphor": [
+    "arrow",
+    "direction",
+    "debugging",
+    "code",
+    "steps"
+  ]
+}

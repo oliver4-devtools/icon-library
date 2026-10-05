@@ -1,0 +1,20 @@
+{
+  "name": "Home Garage",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent garage at home.",
+  "metaphor": [
+    "house",
+    "safety",
+    "location",
+    "space",
+    "car",
+    "carport",
+    "garage"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Stack Arrow Forward",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent stacked content & collections.",
+  "metaphor": [
+    "content",
+    "landscape",
+    "collection"
+  ]
+}

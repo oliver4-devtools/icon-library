@@ -1,0 +1,11 @@
+{
+  "name": "oliver4-icon-library-ui-tests",
+  "private": true,
+  "description": "Browser tests for the tool's HTML UI, run against a scripted test host (no XrmToolBox or Dataverse needed).",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.56.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Color",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, edge",
+  "description": "Used to represent general color.",
+  "metaphor": [
+    "art",
+    "edit",
+    "paint",
+    "palette"
+  ]
+}

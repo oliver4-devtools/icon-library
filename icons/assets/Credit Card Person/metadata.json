@@ -1,0 +1,16 @@
+{
+  "name": "Credit Card Person",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": null,
+  "metaphor": [
+    "payment",
+    "transaction",
+    "purchase.\n\nUsed in scenarios involving payments."
+  ]
+}

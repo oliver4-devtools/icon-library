@@ -1,0 +1,19 @@
+{
+  "name": "Text Add T",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent general type & text creation scenarios.",
+  "metaphor": [
+    "type",
+    "text",
+    "t",
+    "typography",
+    "edit",
+    "create"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Apps Settings",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for plugins, apps, tools.",
+  "metaphor": [
+    "plugin",
+    "square",
+    "stack",
+    "settings"
+  ]
+}

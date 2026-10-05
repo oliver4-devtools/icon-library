@@ -1,0 +1,23 @@
+{
+  "name": "Vehicle RV",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent vehicle travel scenarios.",
+  "metaphor": [
+    "travel",
+    "ride",
+    "map",
+    "commute",
+    "distance",
+    "automobile",
+    "RV",
+    "caravan",
+    "camping",
+    "adventure"
+  ]
+}

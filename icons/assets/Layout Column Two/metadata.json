@@ -1,0 +1,17 @@
+{
+  "name": "Layout Column Two",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, vscode",
+  "description": "Used to represent UI layouts.",
+  "metaphor": [
+    "ui",
+    "layout",
+    "structure",
+    "customize"
+  ]
+}

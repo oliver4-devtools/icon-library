@@ -1,0 +1,20 @@
+{
+  "name": "Open",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in general opening app actions.",
+  "metaphor": [
+    "new",
+    "window",
+    "expand",
+    "arrow",
+    "start",
+    "external",
+    "link"
+  ]
+}

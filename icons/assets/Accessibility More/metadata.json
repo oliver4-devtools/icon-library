@@ -1,0 +1,15 @@
+{
+  "name": "Accessibility More",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for accessibility checker and topics.",
+  "metaphor": [
+    "person",
+    "inclusive"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Share Screen Stop",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used to stop sharing screen on video calls. Collection includes Share Close Tray & Share Screen Stop.",
+  "metaphor": [
+    "screen",
+    "share",
+    "arrow",
+    "close",
+    "x",
+    "stop"
+  ]
+}

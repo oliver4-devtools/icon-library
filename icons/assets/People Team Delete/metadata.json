@@ -1,0 +1,20 @@
+{
+  "name": "People Team Delete",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent work teams.",
+  "metaphor": [
+    "group",
+    "team",
+    "organization",
+    "contact",
+    "guest",
+    "x",
+    "close"
+  ]
+}

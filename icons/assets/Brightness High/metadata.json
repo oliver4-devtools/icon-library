@@ -1,0 +1,16 @@
+{
+  "name": "Brightness High",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, windows",
+  "description": "Used in device brightness scenarios. Contains high & low variants.",
+  "metaphor": [
+    "sun",
+    "light",
+    "dark"
+  ]
+}

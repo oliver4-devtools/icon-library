@@ -1,0 +1,17 @@
+{
+  "name": "Mold",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, bing",
+  "description": "Used to represent a type of allergen around mold.",
+  "metaphor": [
+    "allergies",
+    "allergens",
+    "mold",
+    "fungus"
+  ]
+}

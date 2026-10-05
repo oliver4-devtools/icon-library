@@ -1,0 +1,18 @@
+{
+  "name": "Arrow Previous",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for skipping back a known block of content.",
+  "metaphor": [
+    "point",
+    "direction",
+    "position",
+    "skip",
+    "next"
+  ]
+}

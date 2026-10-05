@@ -1,0 +1,19 @@
+{
+  "name": "Calculator Arrow Clockwise",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for calculation and math scenarios.",
+  "metaphor": [
+    "math",
+    "formulas",
+    "add",
+    "subtract",
+    "multiply",
+    "divde"
+  ]
+}

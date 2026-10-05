@@ -1,0 +1,16 @@
+{
+  "name": "Channel Arrow Left",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used for chat channel scenarios.",
+  "metaphor": [
+    "rectangle",
+    "chat",
+    "announcement"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Midi",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used to represent musical devices and in concert event scenarios.",
+  "metaphor": [
+    "musical instrument digital device",
+    "music",
+    "instrument",
+    "analog",
+    "sound",
+    "concert"
+  ]
+}

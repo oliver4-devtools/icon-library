@@ -1,0 +1,17 @@
+{
+  "name": "Communication Person",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for general connection scenarios (airdrop, cast, etc).",
+  "metaphor": [
+    "cast",
+    "connect",
+    "wifi",
+    "share"
+  ]
+}

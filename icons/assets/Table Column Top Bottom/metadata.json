@@ -1,0 +1,20 @@
+{
+  "name": "Table Column Top Bottom",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, excel",
+  "description": "Used to represent a data table specifically around conditional formatting of the rows & columns.",
+  "metaphor": [
+    "cell",
+    "row",
+    "column",
+    "information",
+    "chart",
+    "format",
+    "conditional formatting"
+  ]
+}

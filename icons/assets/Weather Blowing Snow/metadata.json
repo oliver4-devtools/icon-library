@@ -1,0 +1,23 @@
+{
+  "name": "Weather Blowing Snow",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent current weather.",
+  "metaphor": [
+    "daily",
+    "sky",
+    "snow",
+    "wind",
+    "cloud",
+    "sun",
+    "rain",
+    "moon",
+    "lightning",
+    "haze"
+  ]
+}

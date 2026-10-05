@@ -1,0 +1,17 @@
+{
+  "name": "Gift",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used in celebration scenarios - birthdays, etc",
+  "metaphor": [
+    "present",
+    "birthday",
+    "celebration",
+    "appreciation"
+  ]
+}

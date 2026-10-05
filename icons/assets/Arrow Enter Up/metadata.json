@@ -1,0 +1,17 @@
+{
+  "name": "Arrow Enter Up",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used for enter actions on keyboard.",
+  "metaphor": [
+    "arrow",
+    "point",
+    "direction",
+    "keyboard"
+  ]
+}

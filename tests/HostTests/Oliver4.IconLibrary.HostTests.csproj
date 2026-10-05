@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Host-side tests for Oliver4 Icon Library.
+
+    Has no NuGet package references, so it builds offline and on any machine with the .NET SDK
+    (macOS included). It compiles the tool's non-UI source files directly and references the Dataverse SDK and
+    Newtonsoft.Json DLLs that the main project's Release build already put in its bin folder.
+
+    Run from the project folder: dotnet run -c Release (inside tests/HostTests)
+    (build the tool first so src/Oliver4.IconLibrary/bin/Release/net48 exists)
+  -->
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>8.0</LangVersion>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+    <RootNamespace>Oliver4.IconLibrary.Tests</RootNamespace>
+    <AssemblyName>Oliver4.IconLibrary.HostTests</AssemblyName>
+    <!-- the Dataverse SDK DLLs target .NET Framework; they load fine for these code paths but the compiler warns -->
+    <NoWarn>$(NoWarn);MSB3277;NU1702;CS1701;CS1702;SYSLIB0050;SYSLIB0051</NoWarn>
+    <ToolSrc>..\..\src\Oliver4.IconLibrary</ToolSrc>
+    <ToolBin>$(ToolSrc)\bin\Release\net48</ToolBin>
+    <Version>0.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- The tool's source files under test. The WinForms/WebView2 files are Windows-only and are not included. -->
+    <Compile Include="$(ToolSrc)\DataverseService.cs" Link="Tool\DataverseService.cs" />
+    <Compile Include="$(ToolSrc)\HostBridge.cs" Link="Tool\HostBridge.cs" />
+    <Compile Include="$(ToolSrc)\IconCatalogue.cs" Link="Tool\IconCatalogue.cs" />
+    <Compile Include="$(ToolSrc)\Models.cs" Link="Tool\Models.cs" />
+    <Compile Include="$(ToolSrc)\SvgValidator.cs" Link="Tool\SvgValidator.cs" />
+    <Compile Include="$(ToolSrc)\WebAssets.cs" Link="Tool\WebAssets.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Same logical names as the tool, so IconCatalogue / HostBridge find them exactly as they do in XrmToolBox. -->
+    <EmbeddedResource Include="$(ToolSrc)\Web\catalogue.json.gz" LogicalName="Web/catalogue.json.gz" />
+    <EmbeddedResource Include="..\..\THIRD-PARTY-NOTICES.txt" LogicalName="Web/THIRD-PARTY-NOTICES.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.Xrm.Sdk"><HintPath>$(ToolBin)\Microsoft.Xrm.Sdk.dll</HintPath></Reference>
+    <Reference Include="Microsoft.Crm.Sdk.Proxy"><HintPath>$(ToolBin)\Microsoft.Crm.Sdk.Proxy.dll</HintPath></Reference>
+    <!--
+      Newtonsoft.Json: the copy in the tool's bin folder is the .NET Framework build, which needs
+      System.Security.Permissions on modern .NET. The .NET SDK ships the portable build of the same major
+      version (13.x) in its own folder, so that one is used here. Same API, no NuGet download needed.
+    -->
+    <Reference Include="Newtonsoft.Json"><HintPath>$(MSBuildExtensionsPath)Newtonsoft.Json.dll</HintPath></Reference>
+  </ItemGroup>
+
+  <Target Name="CheckToolBuilt" BeforeTargets="ResolveAssemblyReferences">
+    <Error Condition="!Exists('$(ToolBin)\Microsoft.Xrm.Sdk.dll')" Text="Build the tool first (./package/package.sh or dotnet build -c Release) - the tests use the DLLs in $(ToolBin)." />
+  </Target>
+
+</Project>

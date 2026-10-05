@@ -1,0 +1,17 @@
+{
+  "name": "Pair",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent multi-select in canvas selection scenarios.",
+  "metaphor": [
+    "duplicate",
+    "group",
+    "collection",
+    "selection"
+  ]
+}

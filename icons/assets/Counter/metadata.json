@@ -1,0 +1,16 @@
+{
+  "name": "Counter",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": null,
+  "metaphor": [
+    "count",
+    "numbers",
+    "quantity"
+  ]
+}

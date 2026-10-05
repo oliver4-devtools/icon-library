@@ -1,0 +1,16 @@
+{
+  "name": "Plug Connected Add",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent connections - physical or with app add ins.",
+  "metaphor": [
+    "connect",
+    "power",
+    "add"
+  ]
+}

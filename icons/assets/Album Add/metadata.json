@@ -1,0 +1,17 @@
+{
+  "name": "Album Add",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used as a collection of photos and memories.",
+  "metaphor": [
+    "photo",
+    "book",
+    "pictures",
+    "image"
+  ]
+}

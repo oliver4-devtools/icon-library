@@ -1,0 +1,19 @@
+{
+  "name": "Patient",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent a patient badge in medical scenarios.",
+  "metaphor": [
+    "person",
+    "badge",
+    "bed",
+    "medical",
+    "hospital",
+    "doctor"
+  ]
+}

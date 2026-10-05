@@ -1,0 +1,19 @@
+{
+  "name": "Shifts Team",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, teams",
+  "description": "Used in frontline scheduling scenarios.",
+  "metaphor": [
+    "work",
+    "frontline",
+    "time",
+    "clock",
+    "schedule",
+    "people"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Dock",
+  "size": [
+    20
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent physical device docking scenarios.",
+  "metaphor": [
+    "arrow",
+    "device",
+    "analog"
+  ]
+}

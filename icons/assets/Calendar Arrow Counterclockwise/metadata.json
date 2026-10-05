@@ -1,0 +1,17 @@
+{
+  "name": "Calendar Arrow Counterclockwise",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon, outlook, teams",
+  "description": "Used to represent Calendar wrap up.",
+  "metaphor": [
+    "time",
+    "date",
+    "planning",
+    "arrow counterclockwise"
+  ]
+}

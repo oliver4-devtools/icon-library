@@ -1,0 +1,19 @@
+{
+  "name": "Prohibited",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to represent blocked or unauthorized access for files, accounts, etc.",
+  "metaphor": [
+    "block",
+    "slash",
+    "no access",
+    "unauthorized",
+    "missing",
+    "permission"
+  ]
+}

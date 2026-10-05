@@ -1,0 +1,15 @@
+{
+  "name": "Error Circle Settings",
+  "size": [
+    16
+  ],
+  "style": [
+    "Regular"
+  ],
+  "keyword": "fluent-icon",
+  "description": "Used to indicate an error.",
+  "metaphor": [
+    "exclamation",
+    "alert"
+  ]
+}
